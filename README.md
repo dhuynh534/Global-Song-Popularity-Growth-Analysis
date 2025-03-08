@@ -2,7 +2,7 @@
 SQL data cleaning and Tableau dashboard for Spotify data visualization 
 # Project Overview
 
-This project analyzes **[Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries)**, a dataset by Asaniczka on Kaggle. The goal was to explore song popularity growth across 73 countries and uncover insights into the trends, relationships, and factors influencing monthly performance.
+This project analyzes the **[Top Spotify Songs in 73 Countries](https://www.kaggle.com/datasets/asaniczka/top-spotify-songs-in-73-countries-daily-updated)** dataset by Asaniczka on Kaggle. The objective was to explore song popularity growth across 73 countries and uncover insights into the trends, relationships, and factors influencing monthly performance.
 
 ## Key Insights
 
